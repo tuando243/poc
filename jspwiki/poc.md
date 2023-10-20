@@ -2,7 +2,7 @@
 
 ### Step to exploit:
 
-1. Navigate to http://jspwiki.local/Upload.jsp.
+1. Navigate to `http://{domain}/Upload.jsp`.
 
 <img src="xss1.PNG">
 
@@ -10,6 +10,6 @@
 
 <img src="xss2.PNG">
 
-3. Go to file path.
+3. Go to file path: `http://{domain}/attach/Main/{filename}`
 
 <img src="xss3.PNG">
