@@ -1,4 +1,4 @@
-## A Cross Site Scripting vulnerabilty exists in JSPWiki 2.12
+## A Cross Site Scripting vulnerability exists in JSPWiki 2.12.1
 
 ### Step to exploit:
 
